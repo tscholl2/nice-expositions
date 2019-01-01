@@ -11,3 +11,5 @@ Unsolvability of Quintic Polynomials: https://www.akalin.com/quintic-unsolvabili
 Markov Chains: http://setosa.io/ev/markov-chains/
 
 Fireflies and how simple local rules can make interesting global behavior: http://ncase.me/fireflies/
+
+Graph search and pathfinding: https://www.redblobgames.com/pathfinding/tower-defense/
