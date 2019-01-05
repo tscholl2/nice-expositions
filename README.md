@@ -13,3 +13,5 @@ Markov Chains: http://setosa.io/ev/markov-chains/
 Fireflies and how simple local rules can make interesting global behavior: http://ncase.me/fireflies/
 
 Graph search and pathfinding: https://www.redblobgames.com/pathfinding/tower-defense/
+
+Floating point numbers: https://ciechanow.ski/exposing-floating-point/
